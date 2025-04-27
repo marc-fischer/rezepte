@@ -1,22 +1,24 @@
 # Pizza
 
+6 Pizzen á 16" (320g)
+
 ## Zutaten
 
-Biga
+Sauerteig
 
-- 100g Mehl (Caputo Nuvola)
-- 100g Wasser 45°C
-- 7g Lieveto (Kühlschrankkalt ist ok)
+- 105g Mehl (Weizen 550)
+- 105g Wasser 45°C
+- 30g Lieveto (Kühlschrankkalt ist ok)
 
 Hauptteig
 
-- 770g Mehl (Caputo Nuvola)
-- 460g Wasser 45°C
-- 23g Salz
+- 1030g Mehl (Caputo Nuvola, Blue 50:50)
+- 630g Wasser 45°C (65%)
+- 30g Salz (3%)
 
 ## Zubereitung
 
-Biga
+Sauerteig
 
 Mehl & Wasser vermengen, Lieveto dazu
 Über Nacht stehen lassen 8-12h
@@ -24,10 +26,13 @@ Mehl & Wasser vermengen, Lieveto dazu
 Hauptteig
 
 Mehl + Wasser vermengen, Vorteig dazu
-5min + 10min + 5min kneten (Stufe 1-2-1)
 
-2-3h als Teig ruhen, Stündlich falten
+10min kneten (Stufe 1)
 
-Ballen formen, als ballen 2-3h nochmal ruhen, Stündlich falten
+1h ruhen, dann Kühlschrank (1-3 Tage)
+
+3h aufwärmen zu raumtemperatur
+
+Ballen formen, als ballen 2-3h nochmal ruhen
 
  
